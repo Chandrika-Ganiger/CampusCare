@@ -223,6 +223,17 @@ We also debugged browser-to-API communication and AWS IAM permissions during dev
 
 ---
 
+## AI Tools Used
+
+We used **ChatGPT** as an AI coding assistant during development for code
+guidance, debugging, understanding AWS services and configuration, and
+improving parts of the implementation.
+
+The team reviewed, tested, modified, and integrated the suggestions while
+building and deploying CampusCare.
+
+---
+
 ## What We Learned
 
 Building CampusCare helped us understand how multiple cloud services work together to create a working application.
@@ -262,7 +273,7 @@ These are planned improvements and are not part of the current implementation.
 
 ## Team
 
-**Team:** Cloudpulse
+**Team:** CloudPulse
 
 **Project:** CampusCare
 
