@@ -67,7 +67,7 @@ The application uses the following AWS services:
 * **Amazon API Gateway** – Provides the HTTP API endpoint
 * **AWS Lambda** – Handles backend logic
 * **Amazon DynamoDB** – Stores campus issue data
-* **AWS IAM** – Provides Lambda with permission to access DynamoDB
+* **AWS IAM** – Controls permissions for Lambda to access DynamoDB
 
 ### Architecture Flow
 
